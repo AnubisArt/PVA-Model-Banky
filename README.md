@@ -1,4 +1,6 @@
 Pro testování využijte uživatele (POZOR - názvy jsou case sensitive):
+
+|-----------------------|
 | USERNAME  |   HESLO   |
 | user2     |  user2    |
 | admin     |  admin    |
