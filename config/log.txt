@@ -1,0 +1,5 @@
+Transakce: 24 (Kreditni) -> 20 (Kreditni) (500), status: FAILED
+Transakce: 24 (Kreditni) -> 20 (Bezny) (500), status: FAILED
+Transakce: 24 (Kreditni) -> 20 (Bezny) (500), status: FAILED
+Transakce: 1 (Kreditni) -> 20 (Bezny) (500), status: SUCCESS
+Transakce: 1 (Kreditni) -> 20 (Bezny) (500), status: SUCCESS
